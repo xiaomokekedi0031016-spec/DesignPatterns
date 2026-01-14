@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//请求沿处理链传递，由多个模块按职责逐个尝试处理，发送者无需关心最终由谁处理。
 // 抽象处理者
 class Approver {
 protected:
