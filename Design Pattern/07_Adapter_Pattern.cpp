@@ -2,6 +2,7 @@
 #include <string>
 using namespace std;
 //适配器模式的代码
+//将一个类的接口转换成客户端期望的另一个接口，使原本接口不兼容的类可以一起工作
 
 class Foreigner
 {
