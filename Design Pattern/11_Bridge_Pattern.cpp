@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
-
-// 形状 + 颜色直接组合
+//形状和颜色直接组合
 class RedCircle {
 public:
     void draw() { cout << "画红色圆形" << endl; }
