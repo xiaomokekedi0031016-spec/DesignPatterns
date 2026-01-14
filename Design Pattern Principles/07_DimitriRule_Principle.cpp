@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-//迪米特法则
 
 #if 0
 class Stock {
