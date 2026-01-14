@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+//装饰器模式 : 处理的是一维
+//桥接模式：处理的是二维
 
 // 战士基类
 class Soldier
